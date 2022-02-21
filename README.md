@@ -2,7 +2,7 @@
 
 ## Synopsis
 
-BeatBox is not a box for musical beats. It is a box that helps you beat people up. It does not 
+Beat Box is not a box for musical beats. It is a box that helps you beat people up. It does not 
 help with the easy part, though: the part where you wave your arms around dangerously, bruising 
 and hurting another human being. It helps with the hard part: yelling in a manner calculated to 
 frighten your opponent into submission.
