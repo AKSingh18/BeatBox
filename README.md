@@ -35,7 +35,7 @@ For a quick installation download the [apk](apk/app-debug.apk)
 
 ## Preview
 
-A quick [demo](files/demo.mp4) has also been added for preview. 
+A quick [demo](files/demo.mp4) video has also been added for preview. 
 
 <img src="files/button_normal.jpg" width=108 height="240"> <img src="files/button_pressed.jpg" width=108 height="240"> 
 
